@@ -1,4 +1,3 @@
 # First
-Web App
-Hi,
-  I'm Satendra, I like to learn front end web development.Could any one help?
+I'm new to github
+I updated the readme file
